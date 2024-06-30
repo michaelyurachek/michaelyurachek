@@ -48,16 +48,16 @@
 
 <h4> Connect with me🤝: <h4>
   </hr>
-  <a href="https://www.linkedin.com/in/ratheshan-sathiyamoorthy-3aa2891b9/">
+  <a href="https://www.linkedin.com/in/michael-yurachek-26b8a0313/">
    <img align="left" alt=" Michael Yurachek | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
-  <a href="https://twitter.com/Ratheshan_03">
+  <a href="https://x.com/skyzerbefr">
     <img align="left" alt="Michael Yurachek | Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
   </a>
-  <a href="https://www.instagram.com/ratheshan_03/">
+  <a href="https://www.instagram.com/skyzerbefr/">
     <img align="left" alt="Michael Yurachek | Instagram" width="24px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" />
   </a>
-   <a href="https://github.com/Ratheshan03">
+   <a href="https://github.com/MichaelYurachek">
     <img align="left" alt="Michael Yurachek | Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
   <br>
