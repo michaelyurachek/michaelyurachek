@@ -1,23 +1,18 @@
 <div align="center">
 
-<!-- Main Information -->
-<h2>Hi 👋 I'm Michael Yurachek!</h2>
+<h1>Hi 👋 I'm Michael Yurachek!</h1>
 <p>
 Frontend developer who loves making clean, modern websites.
 </p>
 
-<br/>
-
 <h2>Projects</h2>
 
-<ul align="center" style="list-style-position: inside; padding: 0;">
-  <li>Project One</li>
-  <li>Project Two</li>
-  <li>Project Three</li>
-  <li>Project Four</li>
-</ul>
-
-<br/>
+<h3 style="font-weight: 400;">
+▪ Project One<br/>
+▪ Project Two<br/>
+▪ Project Three<br/>
+▪ Project Four
+</h3>
 
 <h2>Skills</h2>
 
@@ -29,8 +24,6 @@ Frontend developer who loves making clean, modern websites.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" />
 </p>
-
-<br/>
 
 <h2>Connect With Me</h2>
 
