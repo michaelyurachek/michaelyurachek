@@ -7,12 +7,8 @@ Frontend developer who loves making clean, modern websites.
 
 <h2>Projects</h2>
 
-<h3 style="font-weight: 400;">
-▪ Project One<br/>
-▪ Project Two<br/>
-▪ Project Three<br/>
-▪ Project Four
-</h3>
+<a href="https://skyzernetworks.com/">Skyzer Networks</a><br/>
+<a href="https://skyzernetworks.com/BRCC-FoodTruck-Menus/">BRCC Food Truck Menus</a>
 
 <h2>Skills</h2>
 
